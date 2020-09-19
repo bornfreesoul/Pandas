@@ -1,0 +1,10 @@
+I/P:
+import pandas as pd
+df = pd.DataFrame({"Name":["Kapil Sharma","Apil Harma","Pil Arma"], "Age":[21,29,39], "Sex":["Male","Female","Male"]})
+df
+
+O/P:
+	Name	        Age	Sex
+0	Kapil Sharma	21	Male
+1	Apil Harma	  29	Female
+2	Pil Arma	    39	Male
